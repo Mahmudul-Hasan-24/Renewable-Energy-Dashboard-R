@@ -1,4 +1,4 @@
-# 📊 "Business Decision Support Using Data-Driven Modeling in R"
+# 📊 "Business Decision Support-R"
 
 ## 📌 Project Overview
 This project applies **data-driven decision-making techniques** using R to support business decisions.  
